@@ -1,7 +1,7 @@
 # Glassmorphism is pretty rad 🔎 💳 
 
 Here's a photorealistic card concept that's getting really popular in design. For the texture I used that fuzzy tv noise and reduced it's opacity with overlay.
-
+[thumbnail](https://github.com/barrotbake/glassmorphic/blob/master/imgs/thumbnail.png?raw=true)
 
 ### Looking forward to when this isn't so hard to translate to code 💻 😅 (Here are the limitations of this design)
 - backdrop-filter probably need more support to play nice with more browsers
