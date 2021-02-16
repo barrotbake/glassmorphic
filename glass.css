@@ -1,0 +1,90 @@
+body {
+    position: relative;
+    background-color: black;
+}
+.bg {
+    position: absolute;
+    top: 50px;
+    left: 45em;
+    width: 1060px;
+    height: 880px;
+    border-radius: 40px;
+    background-color:#131313;
+    overflow: hidden;
+}
+
+.card {
+    position: absolute;
+    left: 212.73px;
+    top: 242.8px;;
+    width: 640px;
+    height: 400px;
+    background: linear-gradient(129.39deg, rgba(255, 255, 255, 0.4) 17.72%, rgba(255, 255, 255, 0.1) 73.24%);
+    border: 3px solid rgba(255, 255, 255, 0.2);
+    box-sizing: border-box;
+    box-shadow: 0px 1px 24px -1px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(46.2467px);
+    border-radius: 40px;
+    background-clip:  padding-box;;
+}
+.rblob {
+   float: right;
+}
+
+.yblob {
+    margin-top: 28.5em;
+}
+
+.subtext {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 34px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: overlay;
+
+}
+
+.name {
+    position: absolute;
+    width: 411.6px;
+    height: 48.56px;
+    left: 254.36px;
+    top: 480.78px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36.9974px;
+    line-height: 45px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    mix-blend-mode: overlay;
+}
+
+#tag1 {
+    width: 256.67px;
+    height: 48.56px;
+    left: 254px;
+    top: 260px;
+}
+
+#tag2 {
+    width: 363.04px;
+    height: 48.56px;
+    left: 254.36px;
+    top: 550px;
+}
+
+.texture {
+    position: absolute;
+    left: 212.73px;
+    top: 242.8px;;
+    width: 640px;
+    height: 400px;
+    background: url(./imgs/texture.png);
+    mix-blend-mode: overlay;
+    border-radius: 40px;
+}
